@@ -1,0 +1,13 @@
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\bin\Debug\netcoreapp3.1\OTP_Decrypter.exe
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\bin\Debug\netcoreapp3.1\OTP_Decrypter.deps.json
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\bin\Debug\netcoreapp3.1\OTP_Decrypter.runtimeconfig.json
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\bin\Debug\netcoreapp3.1\OTP_Decrypter.runtimeconfig.dev.json
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\bin\Debug\netcoreapp3.1\OTP_Decrypter.dll
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\bin\Debug\netcoreapp3.1\OTP_Decrypter.pdb
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\obj\Debug\netcoreapp3.1\OTP_Decrypter.csprojAssemblyReference.cache
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\obj\Debug\netcoreapp3.1\OTP_Decrypter.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\obj\Debug\netcoreapp3.1\OTP_Decrypter.AssemblyInfo.cs
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\obj\Debug\netcoreapp3.1\OTP_Decrypter.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\obj\Debug\netcoreapp3.1\OTP_Decrypter.dll
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\obj\Debug\netcoreapp3.1\OTP_Decrypter.pdb
+C:\Users\vitor\source\repos\OTP_Decrypter\OTP_Decrypter\obj\Debug\netcoreapp3.1\OTP_Decrypter.genruntimeconfig.cache

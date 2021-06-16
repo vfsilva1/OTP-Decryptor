@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mFqhZDJhcGSWgrjrD/wsrxv0+f7ETkoqiJ+gycjYiphsMrcrnCCz03fGodzsVEinhoNTZBid3pCdVgBCqfdmFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitor\\source\\repos\\OTP_Decrypter\\OTP_Decrypter\\OTP_Decrypter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
